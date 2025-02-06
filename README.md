@@ -4,13 +4,14 @@
 
 <h4 align="left">Contact</h4>
 
-###
-
 <br clear="both">
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="27" alt="linkedin logo"  />
 </div>
+
+###
+
 
 ###
 
